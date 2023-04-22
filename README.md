@@ -13,7 +13,7 @@ Here we have 2 cases for Locations.
 
 ## **Case: 1**
 Single product has multiple locations in the warehouse.
-## ** Case: 2**
+## **Case: 2**
 Single Products have multiple locations in the warehouse.
 
 Both cases can be done through option 2, Which performs add the location of the product, delete Location, and change location.
